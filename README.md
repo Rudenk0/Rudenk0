@@ -5,7 +5,7 @@
 
 - We are working on creating a cloud platform for quantum computing [Qboard](qml.rqc.ru/products/qboard)
 
-- We are looking for: **[Tech Lead Full Stack Developer (Django, React)](hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz)**
+- We are looking for: **[Tech Lead Full Stack Developer (Django, React)](https://hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz)**
 
 - 💬 Ask me about **marketing, psychology, sourcing people, hr managment.**
 
