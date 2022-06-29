@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **marketing, psychology, sourcing people, hr managment.**
 
-- 📫 How to reach me **i.rudenko@rqc.ru, @rudenko_telegram**
+- 📫 How to reach me **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
 - 📄 Know about [**my experience**](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
