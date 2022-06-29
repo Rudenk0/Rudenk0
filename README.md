@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **i.rudenko@rqc.ru, @rudenko_telegram**
 
-- 📄 Know about [**my experiences**](hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
+- 📄 Know about [**my experience**](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
