@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudenk0&label=Profile%20views&color=0e75b6&style=flat" alt="rudenk0" /> </p>
 
-- We are working on creating a cloud platform for quantum computing [Qboard](qml.rqc.ru/products/qboard)
+- We are working on creating a cloud platform for quantum computing [Qboard](https://qml.rqc.ru/products/qboard)
 
 - We are looking for: **[Tech Lead Full Stack Developer (Django, React)](https://hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz), [Senior Python Developer (computing frameworks)](https://yaroslavl.hh.ru/vacancy/55480836)**
 
