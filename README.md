@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iliya</h1>
-<h3 align="center">IT Recruiter at Russian quantum center (rqc.ru)</h3>
+<h1 align="center">Привет! Меня зовут Руденко Илья</h1>
+<h3 align="center">Я IT Recruiter в [Российском квантовом центре](rqc.ru)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudenk0&label=Profile%20views&color=0e75b6&style=flat" alt="rudenk0" /> </p>
 
