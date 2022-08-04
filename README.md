@@ -1,17 +1,15 @@
 <h1 align="center">Привет! Меня зовут Руденко Илья</h1>
-<h3 align="center">Я IT Recruiter в [Российском квантовом центре](rqc.ru)</h3>
+<h3 align="center">Я IT Recruiter в Российском квантовом центре</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudenk0&label=Profile%20views&color=0e75b6&style=flat" alt="rudenk0" /> </p>
 
-- We are working on creating a cloud platform for quantum computing [**Qboard**](https://qml.rqc.ru/products/qboard)
+- Мы создаем облачную платформу квантовых вычислений [**Qboard**](https://qml.rqc.ru/products/qboard)
 
-- We are looking for: **[Tech Lead Full Stack Developer (Django, React)](https://hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz), [Senior Python Developer (computing frameworks)](https://yaroslavl.hh.ru/vacancy/55480836)**
+- Мы нанимаем: **[Tech Lead Full Stack Developer (Django, React)](https://hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz), [Senior Python Developer (computing frameworks)](https://yaroslavl.hh.ru/vacancy/55480836)**
 
-- 💬 Ask me about **marketing, psychology, sourcing people, hr managment.**
+- 📫 Мои контакты: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
-- 📫 How to reach me **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
-
-- 📄 Know about [**my experience**](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
+- 📄[Мое резюме](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
