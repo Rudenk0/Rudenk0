@@ -9,7 +9,7 @@
 
 - Написать мне: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
-- [Нанять меня](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
+- [Мой опыт](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
