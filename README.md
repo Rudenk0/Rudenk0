@@ -7,9 +7,9 @@
 
 - Нанимаем: **[Tech Lead Full Stack Developer (Django, React)](https://hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz), [Senior Python Developer (computing frameworks)](https://yaroslavl.hh.ru/vacancy/55480836)**
 
-- 📫 Мои контакты: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
+- Написать мне: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
-- 📄[Мое резюме](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
+- [Нанять меня](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
