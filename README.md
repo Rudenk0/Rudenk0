@@ -9,6 +9,8 @@
 
 - Написать мне: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
+- Подробнее о Квантовом центре: [https://github.com/aboev/jobs-rqc]
+
 - [Мой опыт](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
 <h3 align="left">Connect with me:</h3>
