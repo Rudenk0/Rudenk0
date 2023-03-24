@@ -1,17 +1,18 @@
-<h1 align="center">Привет! Меня зовут Руденко Илья</h1>
-<h3 align="center">Я IT Recruiter в Российском квантовом центре</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudenk0&label=Profile%20views&color=0e75b6&style=flat" alt="rudenk0" /> </p>
 
-- Мы создаем облачную платформу квантовых вычислений [**Qboard**](https://qml.rqc.ru/products/qboard)
+**Илья Руденко**
 
-- Сейчас нам нужны следующие специалисты: **[Tech Lead Full Stack Developer (Django, React)](https://hh.ru/vacancy/53622010), [Algorithm developers (Python, C++)](https://teletype.in/@rudenko/5G6PABUuksP), [Senior Python Developers](https://teletype.in/@rudenko/yGo5jEkgpmh), [Project managers](https://teletype.in/@rudenko/sqQMMGJbBCz), [Senior Python Developer (computing frameworks)](https://yaroslavl.hh.ru/vacancy/55480836)**
+**IT Recruiter проекта [Qboard](https://qml.rqc.ru/products/qboard)**
 
-- Вы можете написать мне: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
+**Qboard** - это первая российская компания-разработчик квантового программного обеспечения, спин-офф [Российского квантового центра](https://www.rqc.ru/). Мы активно развиваем свои собственные продукты и выполняем коммерческие научно-исследовательские проекты по квантовым вычислениям.
 
-- Или узнать подробнее о [**Квантовом центре**](https://github.com/aboev/jobs-rqc)
+Сейчас нам нужны следующие специалисты: **[Аналитик-Алгоритмист](https://yaroslavl.hh.ru/vacancy/77841207)**
 
-- [Мой опыт](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
+Мы всегда в поиске талантов и открыты к диалогу: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
+
+[*](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
