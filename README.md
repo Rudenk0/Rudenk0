@@ -6,13 +6,13 @@
 
 **IT Recruiter проекта [Qboard](https://qml.rqc.ru/products/qboard)**
 
-**Qboard** - это первая российская компания-разработчик квантового программного обеспечения, спин-офф [Российского квантового центра](https://www.rqc.ru/). Мы активно развиваем свои собственные продукты и выполняем коммерческие научно-исследовательские проекты по квантовым вычислениям.
+**Qboard** - это первая российская компания-разработчик квантового программного обеспечения, спин-офф [Российского квантового центра](https://www.rqc.ru/). Мы активно развиваем свои собственные продукты и выполняем коммерческие научно-исследовательские проекты по квантовым вычислениям
 
 Сейчас нам нужны следующие специалисты: **Аналитик-Алгоритмист, Middle Java Developer, Middle Frontend Developer(React/Vue), QA Auto(Java), DevOps**
 
-Мы всегда в поиске талантов и открыты к диалогу: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
+Отправить резюме: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
-[*](https://uglich.hh.ru/resume/bb46aeb2ff085767cc0039ed1f426553333158)
+**[Узнать больше про РКЦ](https://www.youtube.com/results?search_query=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
