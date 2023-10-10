@@ -6,7 +6,7 @@
 
 **IT Recruiter онлайн-кинотеатра KION**
 
-Сейчас нам нужны следующие специалисты: **loading..**
+Сейчас нам нужны следующие специалисты: **Kotlin Developer(https://yaroslavl.hh.ru/vacancy/87686375), Python Developer(https://yaroslavl.hh.ru/vacancy/87274315), DevOps (https://yaroslavl.hh.ru/vacancy/87202468)**
 
 Отправить резюме: **ivruden6@mts.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
