@@ -8,7 +8,7 @@
 
 **Актуальные вакансии:** **[Kotlin Developer](https://yaroslavl.hh.ru/vacancy/87686375), [Python Developer](https://yaroslavl.hh.ru/vacancy/87274315), [DevOps](https://yaroslavl.hh.ru/vacancy/87202468)**
 
-Отправить резюме: **ivruden6@mts.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
+**Отправить резюме:** **ivruden6@mts.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
