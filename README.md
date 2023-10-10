@@ -4,15 +4,11 @@
 
 **Илья Руденко**
 
-**IT Recruiter проекта [Qboard](https://qml.rqc.ru/products/qboard)**
+**IT Recruiter онлайн-кинотеатра KION**
 
-**Qboard** - это первая российская компания-разработчик квантового программного обеспечения, спин-офф [Российского квантового центра](https://www.rqc.ru/). Мы активно развиваем свои собственные продукты и выполняем коммерческие научно-исследовательские проекты по квантовым вычислениям
+Сейчас нам нужны следующие специалисты: **loading..**
 
-Сейчас нам нужны следующие специалисты: **DevOps Engineer**
-
-Отправить резюме: **i.rudenko@rqc.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
-
-**[Узнать больше про РКЦ](https://www.youtube.com/results?search_query=%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9+%D1%86%D0%B5%D0%BD%D1%82%D1%80)**
+Отправить резюме: **ivruden6@mts.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
