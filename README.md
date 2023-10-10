@@ -4,7 +4,7 @@
 
 **Илья Руденко**
 
-**IT Recruiter онлайн-кинотеатра [KION](https://kion.ru)**
+**IT Recruiter онлайн-кинотеатра** [KION](https://kion.ru)
 
 **Актуальные вакансии:** **[Kotlin Developer](https://yaroslavl.hh.ru/vacancy/87686375), [Python Developer](https://yaroslavl.hh.ru/vacancy/87274315), [DevOps](https://yaroslavl.hh.ru/vacancy/87202468)**
 
