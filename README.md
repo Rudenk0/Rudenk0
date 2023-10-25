@@ -4,7 +4,7 @@
 
 **Илья Руденко**
 
-**IT Recruiter онлайн-кинотеатра** **[KION](https://kion.ru)**
+**IT Recruiter онлайн-кинотеатра** **[KION](https://kion.ru)** - более 4 млн абонентская база, микросервисы, highload 50 000 RPS\sec, 200+ человек IT команда.  
 
 **Актуальные вакансии:** **[Kotlin Developer](https://yaroslavl.hh.ru/vacancy/87686375), [Python Developer](https://yaroslavl.hh.ru/vacancy/87274315), [DevOps](https://yaroslavl.hh.ru/vacancy/87202468), [Golang Developer](https://yaroslavl.hh.ru/vacancy/88416839), [Системный Аналитик](https://yaroslavl.hh.ru/vacancy/88230711)**
 
