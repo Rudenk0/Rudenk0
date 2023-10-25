@@ -6,9 +6,13 @@
 
 **IT Recruiter онлайн-кинотеатра** **[KION](https://kion.ru)**
 
-**Актуальные вакансии:** **[Kotlin Developer](https://yaroslavl.hh.ru/vacancy/87686375), [Python Developer](https://yaroslavl.hh.ru/vacancy/87274315), [DevOps](https://yaroslavl.hh.ru/vacancy/87202468)**
+**Актуальные вакансии:** **[Kotlin Developer](https://yaroslavl.hh.ru/vacancy/87686375), [Python Developer](https://yaroslavl.hh.ru/vacancy/87274315), [DevOps](https://yaroslavl.hh.ru/vacancy/87202468), [Golang Developer](https://yaroslavl.hh.ru/vacancy/88416839), [Системный Аналитик](https://yaroslavl.hh.ru/vacancy/88230711)**
 
 **Отправить резюме:** **ivruden6@mts.ru, [@rudenko_telegram](https://t.me/rudenko_telegram)**
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
