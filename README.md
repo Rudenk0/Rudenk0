@@ -8,7 +8,7 @@
 
 **Контакты:** **[@rudenko_telegram](https://t.me/rudenko_telegram)**
 
-**Мой канал:** **[https://t.me/seitrec]**
+**Мой канал:** **(Senior IT Recruiter)[https://t.me/seitrec]**
 
 
 
