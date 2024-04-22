@@ -6,9 +6,9 @@
 
 **IT Recruiter** 
 
-**Отправить резюме:** **[@rudenko_telegram](https://t.me/rudenko_telegram)**
+**Контакты:** **[@rudenko_telegram](https://t.me/rudenko_telegram)**
 
-
+**Мой канал:** **[https://t.me/seitrec]**
 
 
 
