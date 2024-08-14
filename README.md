@@ -9,7 +9,7 @@
 **Контакты:** **[@rudenko_telegram](https://t.me/rudenko_telegram)**
 
 **Мои ресурсы:** 
-**[Senior IT Recruiter](https://t.me/seitrec)**
+**[Senior IT Recruiter](https://t.me/seitrec)** **;**
 **[Сообщество технических рекрутеров](https://t.me/recruitment_perverts)**
 
 
