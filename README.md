@@ -10,7 +10,7 @@
 
 **Мои ресурсы:** 
 **[Сорсинг для извращенцев](https://t.me/recruitment_pervert)**,
-**[Путь к себе: от борьбы к гармонии](https://t.me/rudenko_psy)**
+**[Путь к себе: от борьбы к гармонии](https://t.me/psy_rudenko)**
 
 
 <h3 align="left">Connect with me:</h3>
