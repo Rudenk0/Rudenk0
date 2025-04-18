@@ -7,6 +7,7 @@
 **IT HR| Психолог** 
 
 **Мои ресурсы:** 
+
 **[Люди внутри нас](https://t.me/psy_rudenko)**
 
 **[Сорсинг для извращенцев](https://t.me/recruitment_pervert)**,
