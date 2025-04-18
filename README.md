@@ -4,13 +4,11 @@
 
 **Илья Руденко**
 
-**IT Recruiter** 
-
-**Контакты:** **[@rudenko_telegram](https://t.me/rudenko_telegram)**
+**IT HR| Психолог** 
 
 **Мои ресурсы:** 
+**[Люди внутри нас](https://t.me/psy_rudenko)**
 **[Сорсинг для извращенцев](https://t.me/recruitment_pervert)**,
-**[Вопросы с кукухой](https://t.me/psy_rudenko)**
 
 
 <h3 align="left">Connect with me:</h3>
