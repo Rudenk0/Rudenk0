@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudenk0&label=Profile%20views&color=0e75b6&style=flat" alt="rudenk0" /> </p>
 
-**Илья Руденко**
-
-**IT HR| Психолог** 
+**Илья Руденко**  **IT HR | Психолог** 
 
 **Мои ресурсы:** 
 
